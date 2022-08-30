@@ -1,2 +1,2 @@
 stepp 1
-![flower](../flower.jpg "Testing Images")
+![flower](./flower.jpg "Testing Images")
