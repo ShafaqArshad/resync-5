@@ -8,4 +8,5 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - Istio Test Resync Shafaq
+  - Assets From Git
 title: Resync 5 Lp
